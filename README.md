@@ -39,7 +39,7 @@ Do you want to append a note to README.md about .gitignore? (y/n): y
 Note added to README.md
 ```
 
-![generate-gitignore CLI Screenshot](images/cli-preview.png)
+![generate-gitignore CLI Screenshot](./cli-preview.png)
 
 
 ## ✅ Supported Stacks
